@@ -31,7 +31,7 @@
     "eslint-plugin-cycle": "1.0.1",
     "markdox": "0.1.9",
     "mocha": "2.2.5",
-    "uglify-js": "2.4.23"
+    "uglify-js": "2.4.24"
   },
   "scripts": {
     "test": "mocha --compilers js:babel/register test",
